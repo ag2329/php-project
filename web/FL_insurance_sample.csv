@@ -1,4 +1,4 @@
-permalink,company,numEmps,category,city,state,fundedDate,raisedAmt,raisedCurrency,round
+PermaLink,Company,NumEmps,Category,City,State,FundedDate,RaisedAmt,RaisedCurrency,Round
 lifelock,LifeLock,33,web,Tempe,AZ,1-May-07,6850000,USD,b
 lifelock,LifeLock,22,web,Tempe,AZ,1-Oct-06,6000000,USD,a
 lifelock,LifeLock,55,web,Tempe,AZ,1-Jan-08,25000000,USD,c
